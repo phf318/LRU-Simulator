@@ -10,7 +10,7 @@ First of all, this project borrows from @Tony Poerio [https://github.com/adpoe/P
 
 ####  Usage
 
-In a python2 environment, you can also modify parts of the code to run under python3
+In the python2 environment, you can also modify parts of the code to run under python3
 
 ```
 Usage:  
